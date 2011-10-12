@@ -1,0 +1,13 @@
+{
+	"name": "sudoke.app",
+	"title": "$APP_TITLE$",
+	"pathcss": "res/css/",
+	"pathimg": "res/images/",
+	"pathlib": "lib/",
+	"css": "sudoke.css",
+	"lib": "sudoke.tpl,sudoke.lib",
+	"conf": {
+		"debug": true
+	},
+	"active": true
+}

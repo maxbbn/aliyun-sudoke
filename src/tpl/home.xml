@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div id="home">
+	<div class='boradwrap'>
+	<table class='board'>
+		<tbody>
+			<tr>
+                <td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr  class='sep'>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr  class='sep'>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+			<tr>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td class='sep'><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+				<td><input maxlength='1' max='9' min='1' type='number' name='' /></td>
+			</tr>
+		</tbody>
+	</table>
+	</div>
+	<ul class='actions'>
+		<li>
+			<a href="#" class='gamebtn' _action="go_back">返回</a>
+		</li>
+	</ul>
+	<div id='numdial' class='num-panel'></div>
+</div>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div id="menu">
+	<div class='content'>
+		<ul class='actions'>
+			<li style='display:none;'>
+				<a href="#" class='gamebtn' _action="game_resume">回到游戏</a>
+			</li>
+
+			<li>
+				<a href="#" class='gamebtn' _action="game_new">新游戏</a>
+			</li>
+
+			<li>
+				<a href="#" class='gamebtn' _action="game_help">游戏介绍</a>
+			</li>
+		</ul>
+	</div>
+</div>

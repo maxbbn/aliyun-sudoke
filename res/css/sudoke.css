@@ -1,0 +1,128 @@
+@charset "utf-8";
+
+.board input::-webkit-outer-spin-button,
+.board input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+.boradwrap {
+	width:461px;
+	margin:20px auto 20px;
+	background:#fff;
+	/*position:absolute;*/
+	/*margin-top:-230px;*/
+	/*top:50%;*/
+	/*left:50%;*/
+	/*margin-left:-230px;*/
+}
+
+table.board {
+	/*width:100%;*/
+	border-collapse:collapse;
+}
+
+.board tr{
+	border:0;
+}
+.board td {
+	padding:0;
+	text-align:center;
+	border-spacing:0;
+	width:50px;
+	border:1px solid #666;
+	height:50px;
+}
+.board td input {
+	background-color:#ccc;
+	height:50px;
+	line-height:50px;
+	width:50px;
+	font-size:30px;
+	text-align:center;
+	border:none;
+}
+.board .sep td {
+	border-bottom:2px solid #333;
+}
+.board td.sep {
+	border-right:2px solid #333;
+}
+.board td.blank input {
+	background-color:#fff;
+}
+.board td.blank input:focus,
+.board td.blank:hover input{
+	background:#ffffdd;
+}
+#menu .actions {
+	margin-top:150px;
+}
+#menu .actions li {
+	margin-bottom:20px;
+}
+.actions {
+	margin:60px auto;
+	list-style:none;
+	padding:4px;
+}
+.actions li {
+	text-align:center;
+	margin-bottom:10px;
+}
+.actions li a {
+	display:inline-block;
+	text-decoration:none;
+	border-radius:5px;
+	box-shadow:0 0 10px #fff;
+	padding:3px 10px;
+	color:#333;
+	background:#fff;
+	border:2px solid #333;
+}
+.actions li a:hover{
+	box-shadow:0 0 20px #fff;
+}
+.full {
+	width:100%;
+	height:100%;
+	/*background:#fff;*/
+	position:relative;
+}
+.logo {
+	width:143px;
+	height:102px;
+	top:50%;
+	margin-top:-143px;
+	left:50%;
+	position:absolute;
+	margin-left:-51px;
+	display:none;
+	background:url(../images/logo.png);
+}
+
+.help-content {
+	margin:20px;
+	padding:10px;
+	background:#fff;
+}
+.num-panel {
+	display:none;
+	position:absolute;
+	top:0;
+	width:100px;
+	height:100px;
+	background:url(../images/panel.png) 0 0 no-repeat;
+	left:0;
+}
+.loading {
+	width:60px;
+	height:30px;
+	background:#fff;
+	text-align:center;
+	border-radius:8px;
+	position:absolute;
+	left:50%;
+	margin-left:-30px;
+	top:30%;
+}
